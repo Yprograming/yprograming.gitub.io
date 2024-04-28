@@ -1,3 +1,3 @@
 **yprograming website**
-yprogramingのウェブサイトです。
-よろしくお願いします。
+>yprogramingのウェブサイトです。
+>よろしくお願いします。
